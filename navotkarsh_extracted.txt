@@ -1,0 +1,131 @@
+
+--- PAGE 1 ---
+SMART KOPARGOAN HACKATHON
+TITLE PAGE
+Problem Statement ID – skh021
+Problem Statement Title- GPS-Based Smart Garbage Collection and Monitoring System
+Theme- Open Innovation
+PS Category- Software
+Team ID- JF9NXM
+Team Name- Navotkarsh
+sanjivani.edu.in
+skh.sanjivaniuniversity.co
+
+--- PAGE 2 ---
+CleanRoute -Smart Waste Management
+Navotkarsh
+Platform
+Idea/Solution:
+CleanRoute is an integrated smart waste-management platform that
+connects citizens, municipal authorities, waste vehicles, and collection
+points on a single system. It combines real-time GPS fleet tracking,
+intelligent route optimization, bin monitoring, priority-based complaint
+management, and alerts to enable faster, more efficient, and
+accountable waste collection.
+Key Components :
+GPS Vehicle Tracking: Real-time visibility of garbage-truck locations, route
+progress and fleet activity.
+AI-Powered Route Optimization: Generates efficient daily routes based on
+collection points, vehicle capacity and operational constraints.
+Bin + Overflow Monitoring: Tracks fill levels and automatically prioritizes
+high-fill bins for collection.
+End-to-End Complaint Management: Citizens report issues, receive a ticket,
+and track resolution while administrators assign and monitor actions.
+sanjivani.edu.in
+2
+skh.sanjivaniuniversity.co
+
+--- PAGE 3 ---
+Navotkarsh
+TECHNICAL APPROACH
+sanjivani.edu.in
+2
+skh.sanjivaniuniversity.co
+
+--- PAGE 4 ---
+Navotkarsh
+FEASIBILITY AND VIABILITY
+From Prototype To City-Wide Deployment
+Scalable Roadmap
+🟢
+TECHNICALLY
+🟠 🔵
+Key CHALLENGES MITIGATION
+Pilot → Wards → City→ Multi-City
+FEASIBLE
+The platform can scale from a pilot ward
+to multiple wards, city-wide deployment.
+GPS + Maps Route complexity Simulated API
+Viable Because
+$0 MVP
+Smartphones GPS accuracy Offline/PWA
+$50–100/month / city
+SaaS + Govt + White-label
+MVP FEASIBILITY
+Scalable IoT hardware JS fallback
+GPS Tracking
+Route Optimization
+Cloud Route complexity Redis/SSE
+Bin Monitoring
+Smarter Routes • Cleaner Cities • Better Tomorrow
+sanjivani.edu.in
+2
+skh.sanjivaniuniversity.co
+
+--- PAGE 5 ---
+Navotkarsh
+IMPACT AND BENEFITS
+Fleet Municipal Citizens
+Field Workers /
+Supervisors Administrators Transparent
+Drivers
+complaint system
+Instant view of Real-time visibility
+Mobile-friendly
+with ticket tracking
+truck locations and into entire fleet
+driver app with
+Fewer overflowing
+route progress from one screen
+route guidance
+bins near
+Automatic Data-driven
+Auto-synced routes
+homes/markets
+escalation of decisions with auto-
+→ no confusion
+Push notifications
+breakdowns and generated reports
+about next stop
+when complaint is
+deviations Reduced
+Simplified reporting
+resolved
+Daily route plans operational cost →
+Trust in local
+auto-generated — budget savings
+government
+no manual planning redirected to other
+increases
+services
+sanjivani.edu.in
+2
+skh.sanjivaniuniversity.co
+
+--- PAGE 6 ---
+Navotkarsh
+RESEARCH AND REFERENCES
+Title Link
+1.Solid Waste Management Rules, 2016 Source
+2.Swachh Bharat Mission – Urban 2.0 Source
+3.Maharashtra Pollution Control Board – Solid Waste Management Source
+4.Municipal Solid Waste Management: A Review of Optimization
+Source
+Approaches
+5.Vehicle Routing Model for Urban Solid Waste Management –
+Bilaspur Case Study Source
+6.PostGIS – Spatial Database Extension for PostgreSQL
+Source
+sanjivani.edu.in
+2
+skh.sanjivaniuniversity.co

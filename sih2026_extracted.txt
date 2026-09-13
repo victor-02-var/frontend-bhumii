@@ -1,0 +1,130 @@
+
+--- PAGE 1 ---
+SMART INDIA HACKATHON 2026
+Problem Statement ID - 26017
+Problem Statement Title - Predictive Analytics
+System for Early Detection of Land Acquisition
+Delays
+Theme - Smart Automation
+PS Category - Software
+Team ID - 152
+Team Name - Navotkarsh
+
+--- PAGE 2 ---
+LandSight AI - Enabling Timely Land, Enabling
+Navotkarsh
+Progress
+Problem:
+Innovation and Uniqueness
+Land acquisition is one of the most critical and time-sensitive phases of infrastructure development. Delays in
+Stage-wise, explainable
+acquiring land significantly impact the execution of national and state-level projects. The causes of land
+prediction: forecasts delay risk
+acquisition delays are multifaceted, including prolonged administrative approvals, legal disputes, delayed
+separately for each stage
+compensation disbursement, incomplete documentation, pending notifications, land ownership conflicts,
+(Notification, Compensation,
+rehabilitation and resettlement challenges, and inter-departmental coordination issues.
+R&R, etc.) and uses SHAP to
+Solution:
+show why, not just a single
+The system uses machine learning (Random Forest, XGBoost) on validated project data to predict delay
+black-box score.
+probability and delay duration at each land-acquisition stage. Explainable AI (SHAP) reveals the key factors
+What-If Simulator : lets officers
+driving each risk score, while a What-If Simulation Engine lets officials test interventions and see the
+test interventions and see risk
+projected risk reduction instantly. A GIS-based dashboard with automated alerts visualizes high-risk projects
+recalculate live, turning the tool
+for quick action, and a recommendation engine suggests corrective steps , keeping humans in control of all
+from a passive dashboard into
+final decisions. This shifts governance from reactive to predictive to preventive.
+an active decision-making
+How It Addresses the Problem
+engine.
+What-If Simulations Stage & GIS Actionable
+Predictive Warning Explainable AI
+System (SHAP) Enables authorities Intelligence Recommendations
+Delivers
+Forecasts delays and Identifies to model Tracks granular
+prioritized, rule-
+durations across exact root causes of interventions in real risk across all
+based operational
+milestones using delay risk, such time (e.g., lifecycle stages
+fixes, such as
+ML classification as low accelerating (Notification to
+scheduling
+compensation compensation or Possession) and
+and regression
+compensation
+completion, pending clearing disputes) to maps high-risk
+models(Logistic camps, escalating
+Regression, approvals, quantify risk hotspots disputes,
+Random Forest, unresolved disputes, reduction before for district-level reallocating field 2
+XGBoost). or lagging R&R. acting. oversight. resources.
+
+--- PAGE 3 ---
+Navotkarsh TECHNICAL APPROACH
+Technology
+Stack
+3
+
+--- PAGE 4 ---
+Navotkarsh FEASIBILITY AND VIABILITY
+Technical Feasibility
+Challenges Strategies
+Built on proven models Logistic Regression, Random Forest,
+XGBoost, paired with SHAP for explainability and GIS for mapping.
+Official land-acquisition data is Use hybrid public + synthetic data
+Uses a mix of public and synthetic data during the prototype phase, so
+restricted. now; request anonymized data for
+development doesn't get stuck waiting on restricted government datasets. Phase 2
+Pipeline is modular, so each part can be improved or swapped without
+breaking the rest. Government records are often messy or Dedicated validation layer catches
+incomplete missing values, duplicates, outliers
+Operational Feasibility
+Historically slow districts could get Regular fairness checks; geography
+Connects to existing land-acquisition portals and MIS via API/CSV, no
+unfairly flagged never decides alone, human stays in
+need to rip out current infrastructure.
+the loop
+Role-based dashboards (Central, State, District, PM, LAO) are simple
+enough for non-technical officials to actually use.
+Officials may distrust AI-driven SHAP explains every prediction; AI
+AI only recommends; officers still decide. That keeps people
+predictions recommends, officers always decide
+comfortable with it instead of resisant to it.
+Economic Feasibility
+Sits on top of existing systems rather than requiring new infrastructure, so
+deployment cost stays low.
+Early risk detection saves money down the line fewer cost overruns, less
+litigation, less lost to delay.
+Directs limited government resources toward the highest-risk projects
+first, instead of spreading them thin.
+4
+
+--- PAGE 5 ---
+Navotkarsh
+
+--- PAGE 6 ---
+Navotkarsh RESEARCH AND REFERENCES
+Delay Analysis of Infrastructure Construction Projects in India
+LINK
+Author: L. Pinky Devi, Sindhu | 2025
+A Study of Land Acquisition and Compensation Process for National Highway in Maharashtra
+LINK
+Authors: Renuka R. Purohit, Rahul S. Chaudhari, Ankit Saraswat | 2023
+Streamlining the M&E of Land Acquisition and R&R in Large Infrastructure Projects Using IT
+LINK
+Author: Ramakrishna Nallathiga | NICMAR, 2013
+Mega Projects in India: Environmental and Land Acquisition Issues in the Road Sector
+LINK
+Authors: G. Raghuram, Samantha Bastian, Satyam Shivam Sundaram ( IIM AHMEDABAD)
+Land Acquisition and Compensation in India: Mysteries of Valuation
+LINK
+Author: Sattwick Dey Biswas
+Money, Land or Self-employment? Understanding Preference Heterogeneity in Landowners’
+Choices for Compensation under Land Acquisition in India
+LINK
+Authors: Vikram Patil, Ranjan Ghosh, Vinish Kathuria, Katharine N. Farrell
+6
